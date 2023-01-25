@@ -1,12 +1,12 @@
 # PWA-Text-Editor
 
-## Description
-The motivation of this project is to build a text editor web application that meets the criteria of a progressive web application (PWA). The application features webpack, a popular JavaScript module bundler, to bundle all of its JavaScript, CSS, and other assets into a single, optimized bundle that can be served to the browser. It uses workbox, a set of libraries and Node modules developed by Google, to add service worker and offline capabilities as well. The data persistence techniques used in this application is supported by IndexedDB, a NoSQL database built into the browser.
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  ![](/screenshot.JPG)
 
 Link to deployed application: https://afternoon-fortress-07309.herokuapp.com/
+
+## Description
+The motivation of this project is to build a text editor web application that meets the criteria of a progressive web application (PWA). The application features webpack, a popular JavaScript module bundler, to bundle all of its JavaScript, CSS, and other assets into a single, optimized bundle that can be served to the browser. It uses workbox, a set of libraries and Node modules developed by Google, to add service worker and offline capabilities as well. The data persistence techniques used in this application is supported by IndexedDB, a NoSQL database built into the browser.
 
 ## Table of Contents
 - [Installation](#installation)
