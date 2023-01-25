@@ -4,7 +4,7 @@ A text editor web application that meets the progressive web application (PWA) c
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  ![](/screenshot.JPG)
 
-Link to deployed application: https://git.heroku.com/afternoon-fortress-07309.git
+Link to deployed application: https://afternoon-fortress-07309.herokuapp.com/
 
 ## Description
 
